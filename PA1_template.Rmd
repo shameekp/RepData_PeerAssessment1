@@ -1,8 +1,8 @@
 ---
-title: 'Reproducible Research: Peer Assessment 1'
-author: "Shameek Phukan"
-output: html_document
+title: "Reproducible Research: Peer Assessment 1"
+output: github_document
 ---
+
 # Loading and preprocessing the data
 
 First we load the data and make a quick data exploration
